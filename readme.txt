@@ -5,4 +5,7 @@ git tracks changed.
 my love is father and mother.
 Creating a new branch is quick AND simple.
 liu lang dd de ha ma.
+liu lang de ha ma.
+ai shi yi ge zi.
+ai shi yi ge zi.
 
