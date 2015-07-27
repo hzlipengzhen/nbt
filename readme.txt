@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 The author is lipengzhen.
 git tracks changed.
 my love is father and mother.
-liu lang de hama.
+Creating a new branch is quick & simple.
